@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LuukBucketListApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_idea">AddIdea</string>
+    <string name = "create_button">Create</string>
+    <string name = "name">Name:</string>
+    <string name = "description">Description:</string>
+</resources>
